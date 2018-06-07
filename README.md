@@ -39,6 +39,7 @@ _Libraries for rapid development, testing and deployment of scalable application
 ## Miscellaneous
 
 - [QtAwesome](https://github.com/spyder-ide/qtawesome) - Iconic fonts in PyQt and PySide applications.
+- [Qt Style Sheet Inspector](https://github.com/ESSS/qt_style_sheet_inspector) - A inspector to be able to view and edit Qt style sheet while an application is running
 
 ## Visualization
 
