@@ -20,6 +20,7 @@ _Bindings for Qt under Python._
 - [PySide2](https://wiki.qt.io/PySide2) - Bindings supporting Qt v5.
 - [Qt.py](https://github.com/mottosso/Qt.py) - Minimal Python 2 & 3 shim around all Qt bindings - PySide, PySide2, PyQt4 and PyQt5.
 - [QtPy](https://github.com/spyder-ide/qtpy) - Provides a uniform layer to support PyQt5, PySide2, PyQt4 and PySide with a single codebase.
+- [PySimpleGUIQt](https://github.com/PySimpleGUI/PySimpleGUI/tree/master/PySimpleGUIQt) -  PySimpleGUIQt uses PySide2 or PyQt5 for access to Qt without the ugly. PySimpleGUIQt is part of [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) project.
 
 ## Examples
 
